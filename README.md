@@ -97,8 +97,6 @@ Le système est modélisé à l’aide d’un **diagramme de classes UML formel*
 - l’héritage logique des commentaires (parent / enfant),
 - la cohérence des dépendances.
 
-📄 Le diagramme détaillé est disponible dans le **rapport LaTeX** associé au projet.
-
 ---
 
 ## 🗃️ Schéma de la base de données
