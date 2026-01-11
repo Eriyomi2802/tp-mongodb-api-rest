@@ -6,7 +6,7 @@
 ## 🏫 Contexte académique
 
 Ce projet a été réalisé dans le cadre du module **Conception et Développement des Systèmes d’Information**  
-au sein du **Master Big Data & Intelligence Artificielle – ECE Paris**.
+au sein du **Mastere Data Engineer à  l'ECE Paris**.
 
 Il vise à mettre en pratique les concepts de :
 - modélisation de systèmes d’information,
